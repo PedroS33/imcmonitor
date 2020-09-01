@@ -17,7 +17,7 @@ return nome;
 }
 
 public int getIdade(){
-return idade;
+return idade; //simulando retorno com erro
 }
 
 }
