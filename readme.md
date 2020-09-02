@@ -6,3 +6,4 @@ Trata-se de um sistema de gerenciamento de imc (indice de massa corporal) para c
 - entidade simples (Atleta)
 - encapsulamento simples com get/set (privando acesso aos atributos)
 - testes unitarios, simples
+- teste unitario, com codigo e manipulação de Exception
