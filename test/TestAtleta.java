@@ -1,7 +1,6 @@
-class TestAtleta{
+class TestAtleta {
 
-
-public void testNome() throws Exception {
+  public void testNome() throws Exception {
 
     Atleta atleta = new Atleta();
     String nome;
